@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../images/photo-1492684223066-81342ee5ff30.jpeg) no-repeat center center fixed; 
+    background-size: cover;
+
+}
+
+h1 {
+    background-color: #8064A2;
+    color: white;
+    width: 350px;
+    height: 70px;
+    padding-top: 15px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #8064A2;
+    color: white;
+
+}
+
+#emailTag {
+    color: white;
+}
+
+#emailAdd {
+    margin-left: 20px;
+}
