@@ -4,7 +4,7 @@
 }
 
 body {
-    background: url(../images/photo-1492684223066-81342ee5ff30.jpeg) no-repeat center center fixed; 
+    background: center / contain no-repeat url(../images/photo-1492684223066-81342ee5ff30.jpeg); 
     background-size: cover;
 
 }
